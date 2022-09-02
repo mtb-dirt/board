@@ -1,2 +1,1 @@
-# board
-MTB Dirt Board
+# MTB Dirt Board
